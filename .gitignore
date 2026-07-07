@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Downloaded model weights (fetched via download.py)
+weights/
+
+# Inference outputs
+results/
+*.log
+
+# OS / editor
+.DS_Store

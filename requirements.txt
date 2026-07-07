@@ -1,0 +1,26 @@
+# Minimal runtime dependencies for HunyuanVideo edit (opensource inference).
+# torch / torchvision / torchaudio, transformers, diffusers and flash-attn are
+# installed separately in jobs/install.sh (they need special index URLs / build flags).
+
+# --- core numerics / io ---
+numpy==2.2.6
+scipy==1.15.3
+einops==0.8.2
+opencv-python-headless==4.13.0.92
+pillow==12.1.1
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+safetensors==0.7.0
+packaging==24.2
+
+# --- model / tokenizer helpers ---
+accelerate==1.13.0
+sentencepiece==0.2.1
+ftfy==6.3.1
+regex==2026.4.4
+tqdm==4.67.3
+requests==2.33.1
+easydict==1.13
+
+# --- video reference decoding (Qwen2.5-VL vision utils) ---
+decord==0.6.0
