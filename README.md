@@ -61,10 +61,6 @@ For each case, the reference image(s) (left) and a structured prompt jointly def
 object, scene) together with a director-level shot script; Aura then renders a ~5s clip (right) that follows the
 script while keeping each subject's identity.
 
-> The `<video>` clips below are served from this repo's raw URLs, so they play inline on GitHub once the
-> `assets/` files are pushed to the `main` branch (and also in VS Code preview / most browsers). If a player
-> does not render inline, click the link to open the video directly.
-
 #### 1. Guitarist singing in a dim bedroom
 
 <table><tr>
