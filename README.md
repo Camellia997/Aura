@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assests/aura_logo.png" alt="Aura" width="440">
+<img src="https://github.com/user-attachments/assets/92afa254-e658-49e5-b479-eec300e766af" alt="Aura" width="440">
 
 <h3>Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment</h3>
 
@@ -62,14 +62,14 @@ object, scene) together with a director-level shot script; Aura then renders a ~
 script while keeping each subject's identity.
 
 > The `<video>` clips below are served from this repo's raw URLs, so they play inline on GitHub once the
-> `assests/` files are pushed to the `main` branch (and also in VS Code preview / most browsers). If a player
+> `assets/` files are pushed to the `main` branch (and also in VS Code preview / most browsers). If a player
 > does not render inline, click the link to open the video directly.
 
 #### 1. Guitarist singing in a dim bedroom
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_1.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_1.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/49b3b02d-b03e-4a6b-8184-6c460242196e" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/03a8e088-e93c-481e-b79d-c0c3c9f1997f" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` musician · `OBJECT_1` sunburst electric guitar · `SCENE_1` dim bedroom.*
@@ -77,8 +77,8 @@ script while keeping each subject's identity.
 #### 2. Ancient-style woman with a folding fan
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_2.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_2.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/1247d6fb-c2dc-4bce-96e7-76cf1a0a4d0e" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/909f88da-a489-4ed8-9a31-40d17b569b41" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` ancient-style woman · `OBJECT_1` floral folding fan · `SCENE_1` candle-lit classical night scene.*
@@ -86,8 +86,8 @@ script while keeping each subject's identity.
 #### 3. Worker carrying cement on a construction site
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_3.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_3.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/234414ec-0540-4680-aac8-79534fb7a758" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/bd19ec29-8905-495d-a669-d4458a3331a2" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` construction worker · `SCENE_1` dusty construction site.*
@@ -95,8 +95,8 @@ script while keeping each subject's identity.
 #### 4. Ink-wash Taiji staff on a misty lake
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_4.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_4.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/deb924e0-d819-495d-9e45-1f77ad2effc6" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/82271364-556a-4737-8adc-4a956a85266e" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` middle-aged man · `OBJECT_1` wooden long staff · `SCENE_1` misty mountain lake.*
@@ -104,8 +104,8 @@ script while keeping each subject's identity.
 #### 5. Hanging a shirt on a golden-hour balcony
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_5.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_5.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/60d5227c-4179-4780-8625-345e657ff7d6" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/b2c3fa25-acf5-4ced-a79d-9d86713b1f16" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` young woman · `SCENE_1` vine-covered golden-hour balcony.*
@@ -113,8 +113,8 @@ script while keeping each subject's identity.
 #### 6. Woman with a camel scarf by the window
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_6.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_6.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/67675c46-a01f-4a7c-b55e-cffce9bebd19" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/da421e7b-49c6-41a2-8e68-4357bcf78ba2" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` young woman · `SCENE_1` bright floor-to-ceiling window room.*
@@ -122,15 +122,15 @@ script while keeping each subject's identity.
 #### 7. Cyberpunk mech "Nezha" on a neon street
 
 <table><tr>
-<td width="32%" align="center"><b>Reference</b><br><img src="assests/examples/demo_7.png" width="100%"></td>
-<td align="center"><b>Generated video</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/examples/demo_7.mp4" controls muted loop width="100%"></video></td>
+<td width="32%" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/fc43ca38-b21d-4dd2-99fa-eef5d8589b86" width="100%"></td>
+<td align="center"><b>Generated video</b><br><video src="https://github.com/user-attachments/assets/bb9e7090-a9ed-4492-89ff-ebbedc990863" controls muted loop width="100%"></video></td>
 </tr></table>
 
 *Subjects: `PERSON_1` cyberpunk Nezha · `SCENE_1` futuristic rainy city.*
 
 ### Qualitative comparison
 
-Aura is compared against six recent multi-subject / reference-driven video generation baselines —
+Aura is compared against five recent multi-subject / reference-driven video generation baselines —
 **Kaleido, HuMo, MAGREF, RefAlign, and Wan 2.7** — using the same reference image and prompt per case. Across
 these comparisons Aura more faithfully preserves each subject's identity and the scene context while following
 the director-level script.
@@ -138,32 +138,32 @@ the director-level script.
 #### Comparison 1
 
 <table>
-<tr><td colspan="3" align="center"><b>Reference</b><br><img src="assests/comparison/reference/compare_1.png" width="40%"></td></tr>
+<tr><td colspan="3" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/4a6c8030-6098-474e-89b6-233a73c93550" width="40%"></td></tr>
 <tr>
-<td align="center"><b>Aura (Ours)</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/ours/compare_1.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>Kaleido</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/kaleido/compare_1.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>HuMo</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/humo/compare_1.mp4" controls muted loop width="100%"></video></td>
+<td align="center"><b>Aura (Ours)</b><br><video src="https://github.com/user-attachments/assets/77475af6-fae3-4b55-82cc-3ef2978581ec" controls muted loop width="100%"></video></td>
+<td align="center"><b>Kaleido</b><br><video src="https://github.com/user-attachments/assets/a571f437-f32f-4673-a2ac-2fc0a950dd0a" controls muted loop width="100%"></video></td>
+<td align="center"><b>HuMo</b><br><video src="https://github.com/user-attachments/assets/2d015fc7-99fc-410a-a4e6-a9d2469b2f16" controls muted loop width="100%"></video></td>
 </tr>
 <tr>
-<td align="center"><b>MAGREF</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/magref/compare_1.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>RefAlign</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/refalign/compare_1.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>Wan 2.7</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/wan2_7/compare_1.mp4" controls muted loop width="100%"></video></td>
+<td align="center"><b>MAGREF</b><br><video src="https://github.com/user-attachments/assets/22f91153-6f21-4567-bc18-ab568a5e67b8" controls muted loop width="100%"></video></td>
+<td align="center"><b>RefAlign</b><br><video src="https://github.com/user-attachments/assets/34d2920d-dbfd-414f-90ac-03ffd8062516" controls muted loop width="100%"></video></td>
+<td align="center"><b>Wan 2.7</b><br><video src="https://github.com/user-attachments/assets/e14f4072-661b-4503-a794-e2ad8a671ed7" controls muted loop width="100%"></video></td>
 </tr>
 </table>
 
 #### Comparison 2
 
 <table>
-<tr><td colspan="3" align="center"><b>Reference</b><br><img src="assests/comparison/reference/compare_2.png" width="40%"></td></tr>
+<tr><td colspan="3" align="center"><b>Reference</b><br><img src="https://github.com/user-attachments/assets/631cc448-5e75-4c53-b0ba-b1885cbdc2ce" width="40%"></td></tr>
 <tr>
-<td align="center"><b>Aura (Ours)</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/ours/compare_2.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>Kaleido</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/kaleido/compare_2.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>HuMo</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/humo/compare_2.mp4" controls muted loop width="100%"></video></td>
+<td align="center"><b>Aura (Ours)</b><br><video src="https://github.com/user-attachments/assets/958d9d93-460c-46d5-95a2-9e55cee50d45" controls muted loop width="100%"></video></td>
+<td align="center"><b>Kaleido</b><br><video src="https://github.com/user-attachments/assets/ecd85c11-bf4d-48c8-98e3-1fb7776465b4" controls muted loop width="100%"></video></td>
+<td align="center"><b>HuMo</b><br><video src="https://github.com/user-attachments/assets/93b9e843-e3cc-42b8-af60-0b3950009ea4" controls muted loop width="100%"></video></td>
 </tr>
 <tr>
-<td align="center"><b>MAGREF</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/magref/compare_2.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>RefAlign</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/refalign/compare_2.mp4" controls muted loop width="100%"></video></td>
-<td align="center"><b>Wan 2.7</b><br><video src="https://github.com/Camellia997/Aura/raw/main/assests/comparison/wan2_7/compare_2.mp4" controls muted loop width="100%"></video></td>
+<td align="center"><b>MAGREF</b><br><video src="https://github.com/user-attachments/assets/5b18b2ca-0df9-45e4-8c82-9cf2aa46fec9" controls muted loop width="100%"></video></td>
+<td align="center"><b>RefAlign</b><br><video src="https://github.com/user-attachments/assets/4037783c-4862-413c-868c-80dd60be27a0" controls muted loop width="100%"></video></td>
+<td align="center"><b>Wan 2.7</b><br><video src="https://github.com/user-attachments/assets/5678325c-2c15-4e23-9d1a-1bd57e6a38ef" controls muted loop width="100%"></video></td>
 </tr>
 </table>
 
@@ -344,7 +344,7 @@ CSV_FILE="metafiles/validation/inference-samples.json"
 Runs with CPU offloading (`--offload_model True --convert_model_dtype`), no FSDP, no sequence parallelism.
 
 ```bash
-conda activate hyvideo-edit
+conda activate aura
 bash jobs/infer_single_gpu.sh
 
 # choose a specific GPU
